@@ -1,0 +1,3 @@
+$('a[href^="/cart/change"]').click(function(){
+    alert("The paragraph was clicked.");
+});
